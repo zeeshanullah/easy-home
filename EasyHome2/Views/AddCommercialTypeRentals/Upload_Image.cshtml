@@ -1,0 +1,42 @@
+﻿
+@model EasyHome2.ViewModels.RentalCommercialImagesViewModel
+@{
+    ViewBag.Title = "";
+}
+
+
+
+<div class="contact100-form-title" style="height:150px; background-image: url(https://hips.hearstapps.com/edc.h-cdn.co/assets/16/34/2560x1280/landscape-1471974232-black-walls-lead.jpg?resize=768:*); border-radius:10px">
+    <div style="margin-top:-10px;text-align:center">
+        <h1 style="color:white; font-family:'Trebuchet MS';font-size:35px">
+            <b>Attach Some Images</b>
+        </h1>
+        <h2 style="color:white;">
+            Properties with more beautiful images attracts the buyers.
+        </h2>
+
+    </div>
+</div>
+
+<form action="" method="post" enctype="multipart/form-data" style="margin-left:400px; margin-top:40px">
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    @Html.HiddenFor(m => m.RentalCommercialId)
+
+   
+    <div style="margin-top:10px">
+        @Html.LabelFor(m => m.Caption, htmlAttributes: new { @class = "control-label" })
+        @Html.EditorFor(m => m.Caption, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+    <div style="margin-top:10px">
+        @Html.LabelFor(m => m.ImageUpload)
+        @Html.TextBoxFor(m => m.ImageUpload, new { type = "file", multiple = "multiple" })
+    </div>
+
+    <div class="form-group">
+        <div class="" style="margin-top:10px">
+            <input type="submit" value="Upload_Image" class="btn btn-primary" />
+        </div>
+    </div>
+</form>
+

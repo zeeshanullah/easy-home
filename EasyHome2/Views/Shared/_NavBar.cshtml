@@ -1,0 +1,123 @@
+﻿
+
+<head>
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+</head>
+
+<div class="navbar navbar-default navbar-fixed-top">
+
+    <header>
+
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+            <p style="float:left;">Need Support?</p>
+
+            <i class="glyphicon glyphicon-earphone"></i>
+            <p>+923239713483</p>
+
+            <i class="glyphicon glyphicon-envelope"></i>
+            <p>support@easyhome.com</p>
+
+        </div>
+
+        <div id="my-head" class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="color:#ffffff">
+            @Html.Partial("_LoginPartial")
+        </div>
+
+
+    </header>
+
+
+
+
+
+    <div id="my-navbar" class="container" style="height:60px;">
+        <img src="~/Content/logo.png" class="logo" style="height:auto; width:50px; line-height:60px; float:left; margin-top:5px; margin-right:10px" />
+
+        <div class="navbar-header" style="margin-top:5px; line-height:60px">
+
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("Easy Home", "Index", "Home", new { area = "" }, new { @class = "navbar-brand brand-color" })
+        </div>
+        <section id="mymenu" class="navigation-items">
+            <ul>
+                @*<li>@Html.ActionLink("Home", "Index", "Home")</li>*@
+
+                <li>
+                    <a style="background:#055b07; color:#ffffff; border-right:1px solid #fff;">Paying Guest</a>
+                    <section class="submenu-container">
+                        <div class="list">
+                            <ul class="submenu">
+                                <li>@Html.ActionLink("Submit Residence", "Create", "PayingGuest")</li>
+                                <li>@Html.ActionLink("Find Residence", "Index", "PayingGuest")</li>
+                            </ul>
+                        </div>
+                    </section>
+                </li>
+
+                <li>
+                    <a>Submit Property<span class="glyphicon glyphicons-chevron-down" aria-hidden="true"></span></a>
+                    <section class="submenu-container">
+                        <div class="list">
+                            <ul class="submenu">
+                                <li>@Html.ActionLink("Sell Home", "Create", "AdHomeProperties")</li>
+                                <li>@Html.ActionLink("Sell Commercial", "Create", "AdCommecialProperties")</li>
+                                <li>@Html.ActionLink("Sell Plot", "Create", "AdPlotProperties")</li>
+                            </ul>
+                        </div>
+                        <div class="list">
+                            <ul class="submenu">
+                                <li>@Html.ActionLink("Rental Home", "Create", "AddHomeTypeRentals")</li>
+                                <li>@Html.ActionLink("Rental Commercial", "Create", "AddCommercialTypeRentals")</li>
+                            </ul>
+                        </div>
+                    </section>
+                </li>
+                <li>
+                    <a>Find Property</a>
+                    <section class="submenu-container">
+                        <div class="list">
+                            <ul class="submenu">
+                                <li>@Html.ActionLink("Buy Home", "Index", "AdHomeProperties")</li>
+                                <li>@Html.ActionLink("Buy Commercial", "Index", "AdCommecialProperties")</li>
+                                <li>@Html.ActionLink("Buy Plot", "Index", "AdPlotProperties")</li>
+                            </ul>
+                        </div>
+                        <div class="list">
+                            <ul class="submenu">
+                                <li>@Html.ActionLink("Rent Home", "Index", "AddHomeTypeRentals")</li>
+                                <li>@Html.ActionLink("Rent Commercial", "Index", "AddCommercialTypeRentals")</li>
+                            </ul>
+                        </div>
+                    </section>
+                </li>
+
+                
+                @if (User.Identity.Name != "")
+                {
+                    <li>@Html.ActionLink("My Properties", "Index", "MyProperties")</li>
+                    <li>@Html.ActionLink("Inbox", "Inbox", "MyProperties")</li>
+                }
+
+
+                <li>@Html.ActionLink("About Us", "About", "Home")</li>
+                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+            </ul>
+
+                <ul style="margin-left:50px;">
+                    
+                </ul>
+            
+
+        </section>
+        <section style="line-height:60px; margin-top:15px !important; font-size:120%">
+        </section>
+    </div>
+
+</div>
+
+
+

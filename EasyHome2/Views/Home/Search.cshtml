@@ -1,0 +1,26 @@
+﻿@model EasyHome2.ViewModels.AllCPIViewModel
+@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search</h2>
+
+@foreach (var item in Model.AdCommercialProperty)
+{
+    var img = item.CommercialImages.FirstOrDefault();
+    <div class="col-lg-3 thumbnail" style="margin:20px">
+        <div class="properties">
+            <div class="image-holder"><img src="@Url.Content(img.ImageUrl)" class="img-responsive" alt="properties" /></div>
+            <div class="col-lg-6">
+                <h4><a>Royal Inn</a></h4>
+            </div>
+            <div class="col-lg-6" style="margin-top:2px;">
+                <h5 class="price">Price: $234,900</h5>
+            </div>
+
+            @Html.ActionLink("View Details", "Details", "AdCommecialProperties", new { id = item.Id }, new { @class = "btn btn-primary" })
+
+        </div>
+
+    </div>
+}

@@ -1,0 +1,189 @@
+﻿@model EasyHome2.ViewModels.AvmViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="contact100-form-title thumbnail" style=" background-image: url(https://hips.hearstapps.com/edc.h-cdn.co/assets/16/34/2560x1280/landscape-1471974232-black-walls-lead.jpg?resize=768:*); 
+    height:150px;border-radius:10px">
+    <div style="margin-top:60px;text-align:center">
+        <h1 style="color:white; font-family:'Trebuchet MS';font-size:35px">
+            <b>My Properties</b>
+        </h1>
+
+    </div>
+</div>
+
+<br />
+<br />
+
+<div style="margin-left:0px">
+
+
+
+    @foreach (var item in Model.AdCommercialProperty)
+    {
+        var img = item.CommercialImages.FirstOrDefault();
+        <div class="col-lg-4 thumbnail" style="margin:0px">
+            <div class="properties">
+                <div class="image-holder zoomer" style="background-color:#bbbbbb">
+                    <img src="@Url.Content(img.ImageUrl)" class="img-responsive" alt="properties" />
+                    <div style="width:150px; float:left">
+                        @Html.ActionLink("Edit", "Edit", "AdCommecialProperties", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>    
+                    <div style="text-align:end">
+                        @Html.ActionLink("Delete", "Delete", "AdCommecialProperties", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h4><a>@item.Location</a></h4>
+                </div>
+                <div class="col-lg-6" style="margin-top:2px; float:right; text-align:end">
+                    <h5 class="price">Price: @item.PropertyPrice</h5>
+                </div>
+
+                @Html.ActionLink("View Details", "Details", "AdCommecialProperties", new { id = item.Id }, new { @class = "btn btn-primary" })
+
+            </div>
+
+        </div>
+    }
+
+    @foreach (var item in Model.AddCommercialTypeRental)
+    {
+        var img = item.RentalCommercialImages.FirstOrDefault();
+        <div class="col-lg-4 thumbnail" style="margin:0px">
+            <div class="properties">
+                <div class="image-holder zoomer" style="background-color:#bbbbbb">
+                    <img src="@Url.Content(img.ImageUrl)" class="img-responsive" alt="properties" />
+                    <div style="width:150px; float:left">
+                        @Html.ActionLink("Edit", "Edit", "AddCommercialTypeRentals", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                    <div style="text-align:end">
+                        @Html.ActionLink("Delete", "Delete", "AddCommercialTypeRentals", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h4><a>@item.Location</a></h4>
+                </div>
+                <div class="col-lg-6" style="margin-top:2px;">
+                    <h5 class="price">Rent: @item.Rent</h5>
+                </div>
+
+                @Html.ActionLink("View Details", "Details", "AddCommercialTypeRentals", new { id = item.Id }, new { @class = "btn btn-primary" })
+
+            </div>
+
+        </div>
+    }
+
+    @foreach (var item in Model.AddHomeTypeRental)
+    {
+        var img = item.RentalHomeImages.FirstOrDefault();
+        <div class="col-lg-4 thumbnail" style="margin:0px">
+            <div class="properties">
+                <div class="image-holder zoomer" style="background-color:#bbbbbb">
+                    <img src="@Url.Content(img.ImageUrl)" class="img-responsive" alt="properties" />
+                    <div style="width:150px; float:left">
+                        @Html.ActionLink("Edit", "Edit", "AddHomeTypeRentals", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                    <div style="text-align:end">
+                        @Html.ActionLink("Delete", "Delete", "AddHomeTypeRentals", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h4><a>@item.Location</a></h4>
+                </div>
+                <div class="col-lg-6" style="margin-top:2px;">
+                    <h5 class="price">Price: @item.PropertyPrice</h5>
+                </div>
+
+                @Html.ActionLink("View Details", "Details", "AddHomeTypeRentals", new { id = item.Id }, new { @class = "btn btn-primary" })
+
+            </div>
+
+        </div>
+    }
+    @foreach (var item in Model.AdHomeProperty)
+    {
+        var img = item.HomeImages.FirstOrDefault();
+        <div class="col-lg-4 thumbnail" style="margin:0px">
+            <div class="properties">
+                <div class="image-holder zoomer" style="background-color:#bbbbbb">
+                    <img src="@Url.Content(img.ImageUrl)" class="img-responsive" alt="properties" />
+                    <div style="width:150px; float:left">
+                        @Html.ActionLink("Edit", "Edit", "AdHomeProperties", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                    <div style="text-align:end">
+                        @Html.ActionLink("Delete", "Delete", "AdHomeProperties", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h4><a>@item.Location</a></h4>
+                </div>
+                <div class="col-lg-6" style="margin-top:2px;">
+                    <h5 class="price">Price: @item.PropertyPrice</h5>
+                </div>
+
+                @Html.ActionLink("View Details", "Details", "AdHomeProperty", new { id = item.Id }, new { @class = "btn btn-primary" })
+
+            </div>
+
+        </div>
+    }
+    @foreach (var item in Model.AdPlotProperty)
+    {
+        <div class="col-lg-4 thumbnail" style="margin:0px">
+            <div class="properties">
+                <div class="image-holder zoomer" style="background-color:#bbbbbb">
+                    <img src="~/Content/plot_427666.jpg" class="img-responsive" alt="properties" />
+                    <div style="width:150px; float:left">
+                        @Html.ActionLink("Edit", "Edit", "AdPlotProperties", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                    <div style="text-align:end">
+                        @Html.ActionLink("Delete", "Delete", "AdPlotProperties", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h4><a>@item.Location</a></h4>
+                </div>
+                <div class="col-lg-6" style="margin-top:2px;">
+                    <h5 class="price">Price: @item.PropertyPrice</h5>
+                </div>
+
+                @Html.ActionLink("View Details", "Details", "AdPlotProperty", new { id = item.Id }, new { @class = "btn btn-primary" })
+
+            </div>
+
+        </div>
+    }
+
+    @foreach (var item in Model.PayingGuest)
+    {
+        var img = item.PayingGuestImages.FirstOrDefault();
+        <div class="col-lg-4 thumbnail" style="margin:0px">
+            <div class="properties">
+                <div class="image-holder zoomer" style="background-color:#bbbbbb">
+                    <img src="@Url.Content(img.ImageUrl)" class="img-responsive" alt="properties" />
+                    <div style="width:150px; float:left">
+                        @Html.ActionLink("Edit", "Edit", "PayingGuest", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                    <div style="text-align:end">
+                        @Html.ActionLink("Delete", "Delete", "PayingGuest", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h4><a>@item.Location</a></h4>
+                </div>
+                <div class="col-lg-6" style="margin-top:2px;">
+                    <h5 class="price">Charges Per Day: @item.ChargesPerHour</h5>
+                </div>
+
+                @Html.ActionLink("View Details", "Details", "PayingGuest", new { id = item.Id }, new { @class = "btn btn-primary" })
+
+            </div>
+
+        </div>
+    }
+
+</div> 

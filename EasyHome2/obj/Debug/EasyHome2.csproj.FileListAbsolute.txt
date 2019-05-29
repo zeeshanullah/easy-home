@@ -1,0 +1,498 @@
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\csc.exe
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\vbc.exe
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\EasyHome2.dll.config
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\EasyHome2.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\EasyHome2.pdb
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Antlr3.Runtime.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\EntityFramework.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\GoogleMaps.LocationServices.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Newtonsoft.Json.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Owin.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Helpers.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Mvc.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Optimization.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Razor.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\WebGrease.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Helpers.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Mvc.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Optimization.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Razor.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Antlr3.Runtime.pdb
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Newtonsoft.Json.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\EntityFramework.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.initialMigration.resources
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.dbSetAdded.resources
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.emptyMigration.resources
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userid.resources
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.addresslang.resources
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate.resources
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate2.resources
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.payingGuestFieldsAdded.resources
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csproj.GenerateResource.Cache
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.dll
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.pdb
+C:\Users\Zeeshan\documents\visual studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csprojResolveAssemblyReference.cache
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\csc.exe
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\vbc.exe
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\EasyHome2.dll.config
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\EasyHome2.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\EasyHome2.pdb
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Antlr3.Runtime.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\EntityFramework.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\GoogleMaps.LocationServices.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Newtonsoft.Json.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Owin.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Helpers.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Mvc.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Optimization.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Razor.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\WebGrease.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Helpers.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Mvc.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Optimization.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.Razor.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Antlr3.Runtime.pdb
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Newtonsoft.Json.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\EntityFramework.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csprojResolveAssemblyReference.cache
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.initialMigration.resources
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.dbSetAdded.resources
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.emptyMigration.resources
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userid.resources
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.addresslang.resources
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate.resources
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate2.resources
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.payingGuestFieldsAdded.resources
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csproj.GenerateResource.Cache
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.dll
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.pdb
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations._new.resources
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.seedusers.resources
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.total.resources
+C:\Users\Muzamil Bashir\Documents\Visual Studio 2015\Projects\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.count.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\csc.exe
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\System.Collections.Immutable.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\System.Reflection.Metadata.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\vbc.exe
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe.config
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.dll.config
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.pdb
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Antlr3.Runtime.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\GoogleMaps.LocationServices.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Web.Infrastructure.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Newtonsoft.Json.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Owin.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Helpers.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Mvc.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Optimization.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Razor.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\WebGrease.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Helpers.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Mvc.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Optimization.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Razor.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Antlr3.Runtime.pdb
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Newtonsoft.Json.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csprojResolveAssemblyReference.cache
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.initialMigration.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.dbSetAdded.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.emptyMigration.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userid.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.addresslang.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate2.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.payingGuestFieldsAdded.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations._new.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.seedusers.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.total.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.count.resources
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csproj.GenerateResource.Cache
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.dll
+G:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.pdb
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\csc.exe
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\System.Collections.Immutable.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\System.Reflection.Metadata.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\vbc.exe
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe.config
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.dll.config
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.pdb
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Antlr3.Runtime.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\GoogleMaps.LocationServices.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Web.Infrastructure.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Newtonsoft.Json.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Owin.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Helpers.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Mvc.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Optimization.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Razor.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\WebGrease.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Helpers.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Mvc.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Optimization.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Razor.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Antlr3.Runtime.pdb
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Newtonsoft.Json.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csprojResolveAssemblyReference.cache
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.initialMigration.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.dbSetAdded.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.emptyMigration.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userid.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.addresslang.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate2.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.payingGuestFieldsAdded.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations._new.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.seedusers.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.total.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.count.resources
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csproj.GenerateResource.Cache
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.dll
+D:\muzamil\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.pdb
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\csc.exe
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\System.Collections.Immutable.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\System.Reflection.Metadata.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\vbc.exe
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe.config
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.dll.config
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.pdb
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Antlr3.Runtime.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\GoogleMaps.LocationServices.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Web.Infrastructure.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Newtonsoft.Json.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Owin.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Helpers.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Mvc.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Optimization.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Razor.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\WebGrease.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Helpers.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Mvc.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Optimization.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Razor.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Antlr3.Runtime.pdb
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Newtonsoft.Json.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csprojResolveAssemblyReference.cache
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.initialMigration.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.dbSetAdded.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.emptyMigration.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userid.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.addresslang.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate2.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.payingGuestFieldsAdded.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations._new.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.seedusers.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.total.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.count.resources
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csproj.GenerateResource.Cache
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.dll
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.pdb
+E:\STUDY\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.useradmin.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\csc.exe
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\vbc.exe
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.dll.config
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\EasyHome2.pdb
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Antlr3.Runtime.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\GoogleMaps.LocationServices.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Newtonsoft.Json.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Owin.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Helpers.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Mvc.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Optimization.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Razor.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\WebGrease.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Helpers.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Mvc.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Optimization.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.Razor.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\System.Web.WebPages.Razor.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Antlr3.Runtime.pdb
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Newtonsoft.Json.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\EntityFramework.SqlServer.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csprojAssemblyReference.cache
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.initialMigration.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.dbSetAdded.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.emptyMigration.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userid.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.addresslang.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.userupdate2.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.payingGuestFieldsAdded.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations._new.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.seedusers.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.total.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.count.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.Migrations.useradmin.resources
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csproj.GenerateResource.cache
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csproj.CoreCompileInputs.cache
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.csproj.CopyComplete
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.dll
+C:\Users\iT-Taste\Desktop\prooojects\AA   FYP\EasyHome2\EasyHome2\obj\Debug\EasyHome2.pdb

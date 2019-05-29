@@ -1,0 +1,66 @@
+﻿@model IEnumerable<EasyHome2.Models.AdHomeProperty>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.City)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PropertyTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PropertyPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PropertyLandArea)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PropertyLandAreaUnit)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExpiresAfter)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PropertyTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PropertyPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PropertyLandArea)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PropertyLandAreaUnit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpiresAfter)
+            </td>
+            <td>
+              
+                @Html.ActionLink("Details", "HomeDetails", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "HomeDelete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>

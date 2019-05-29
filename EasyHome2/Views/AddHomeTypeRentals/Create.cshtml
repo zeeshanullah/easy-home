@@ -1,0 +1,309 @@
+﻿@model EasyHome2.ViewModels.HomeViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+<head>
+    <style>
+        body {
+            height: 100%;
+        }
+
+        .wrap-contact100 {
+            width: 770px;
+            background: #fff;
+            border-radius: 10px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .contact100-form-title {
+            width: 100%;
+            position: relative;
+            z-index: 1;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+            align-items: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            padding: 64px 15px 64px 15px;
+        }
+
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        body {
+            background-size: cover;
+            height: 100%;
+            background-image: linear-gradient(to bottom right,#055b07, #fff);
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+        }
+
+        .form-top {
+            margin-top: 30px;
+        }
+
+        .panel {
+            box-shadow: 0 1px 6px 0 rgba(0,0,0,.12), 0 1px 6px 0 rgba(0,0,0,.12);
+            border-radius: 6px;
+            border: 0;
+        }
+
+        }
+
+        .panel-primary {
+            background-color: #2c3e50;
+            color: #fff;
+        }
+
+            .panel-primary > .panel-heading {
+                color: #fff;
+                font-size: 20px;
+                background-color: #2c3e50;
+                border-color: #2c3e50;
+            }
+
+        .btn-warning {
+            background-color: transparent;
+            border-color: #bdc3c7;
+        }
+
+
+        .contact100-map {
+            position: absolute;
+            z-index: -2;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+        }
+    </style>
+
+
+    <script src="~/Scripts/map-custom.js"></script>
+    <script src="~/Scripts/main.js"></script>
+</head>
+
+
+<body style="">
+
+    <div class="contact100-form-title" style=" background-image: url(https://hips.hearstapps.com/edc.h-cdn.co/assets/16/34/2560x1280/landscape-1471974232-black-walls-lead.jpg?resize=768:*); height:250px;border-radius:10px">
+        <div style="margin-top:-10px;text-align:center">
+            <h1 style="color:white; font-family:'Trebuchet MS';font-size:35px">
+                <b> Submit Property</b>
+            </h1>
+            <h2 style="color:white;">
+                Want to Rent your house? Just Fill-in The Details.
+            </h2>
+
+        </div>
+    </div>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+
+            <!-- Form Started -->
+        <div class="container form-top ">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
+                    <div class="panel panel-danger">
+                        <div class="panel-body">
+                            <form id="reused_form">
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.RentalHomeTypeId, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.DropDownListFor(model => model.AddHomeTypeRental.RentalHomeTypeId, new SelectList(Model.HomeTypes, "Id", "HomeTypeName"), "Select Home Type", new { @class = "form-control" })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.RentalHomeTypeId, "", new { @class = "text-danger" })
+                                    </div>
+
+                                </div>
+
+                                <div class="form-group" style="width:100%">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.PropertyTitle, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.PropertyTitle, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.PropertyTitle, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.City, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.City, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.City, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.Location, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.Location, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.Location, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.Address, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.Address, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.Address, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.PropertyLandArea, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.PropertyLandArea, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.PropertyLandArea, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.PropertyLandAreaUnit, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.PropertyLandAreaUnit, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.PropertyLandAreaUnit, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.PropertyPrice, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.PropertyPrice, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.PropertyPrice, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.Bathrooms, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.Bathrooms, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.Bathrooms, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.Kitchens, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.Kitchens, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.Kitchens, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.ParkingSpaces, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.ParkingSpaces, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.ParkingSpaces, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.Bedrooms, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.Bedrooms, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.Bedrooms, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.DiningRoom, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.DiningRoom, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.DiningRoom, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.DrawingRoom, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.DrawingRoom, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.DrawingRoom, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.PropertyDescription, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.PropertyDescription, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.PropertyDescription, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.BuiltinYear, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.BuiltinYear, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.BuiltinYear, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        @Html.LabelFor(model => model.AddHomeTypeRental.ExpiresAfter, htmlAttributes: new { @class = "control-label" })
+                                    </label>
+                                    @Html.EditorFor(model => model.AddHomeTypeRental.ExpiresAfter, new { htmlAttributes = new { @class = "form-control" } })
+                                    <div class="col-md-10">
+                                        @Html.ValidationMessageFor(model => model.AddHomeTypeRental.ExpiresAfter, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-md-offset-2 col-md-10" style="margin:-15px;margin-top:5px;margin-bottom:5px">
+                                        <input type="submit" value="Create" class="btn btn-raised btn-block btn-success" />
+                                    </div>
+                                </div>
+
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <!-- Form Ended -->
+
+    }
+
+
+</body>

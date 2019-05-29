@@ -1,0 +1,45 @@
+﻿@model IEnumerable<EasyHome2.Models.AdPlotProperty>
+
+@{
+    ViewBag.Title = "Plot";
+}
+
+<h2>Plot</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PlotTypeId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.City)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PropertyPrice)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PlotTypeId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.City)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PropertyPrice)
+        </td>
+        <td>
+        <td>
+            @Html.ActionLink("Details", "PlotDetails", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "PlotDelete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

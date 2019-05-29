@@ -1,0 +1,90 @@
+﻿@model EasyHome2.ViewModels.AllCPIViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+
+@foreach (var item in Model.PayingGuest)
+{
+    foreach (var atom in Model.PayingGuestImages.Where(c => c.PayingGuestId == item.Id & c.ImageNumber == 1))
+    {
+        <div class="container" style="color:#055b07; border:1px solid #808080; background-color:#bcfbaa; border-radius:10px; padding-top:10px; padding-bottom:10px; margin-top:20px">
+
+            <div class="col-lg-3">
+                <img class="thumbnail" style="width:250px; height:200px" src="@Url.Content(atom.ImageUrl)" />
+            </div>
+
+            <div class="col-lg-9">  
+                <p style="font-size:30px">@Html.DisplayFor(modelItem => item.Title)</p>
+                <div style="float:right; margin-top:-45px; width:150px">
+                    @Html.ActionLink("Book Now", "BookNow", new { id = item.Id }, new { @class = "btn btn-primary" })
+                </div>
+                <p><b>Rooms: </b>@Html.DisplayFor(modelItem => item.Rooms)</p>
+                <p><b>Charges: </b>@Html.DisplayFor(modelItem => item.ChargesPerHour)/per day</p>
+                <p><b>Address: </b>@Html.DisplayFor(modelItem => item.Address)</p>
+                <br />
+
+                @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-primary" })
+              
+               
+                
+            </div>
+
+        </div>
+    }
+
+
+}
+
+
+
+
+
+@*<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChargesPerHour)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rooms)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChargesPerHour)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rooms)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>*@

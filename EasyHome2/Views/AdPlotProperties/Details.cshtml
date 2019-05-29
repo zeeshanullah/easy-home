@@ -1,0 +1,309 @@
+﻿
+@model EasyHome2.ViewModels.PlotViewModel
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <link href="~/Content/bootstrape.css" rel="stylesheet" />
+    <link href="~/Content/style.css" rel="stylesheet" />
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+
+
+    <script src="~/Scripts/owl.carousel.js"></script>
+    <style type="text/css">
+        /* for testing only */
+        .carousel {
+            max-height: 400px;
+            overflow: hidden;
+        }
+
+        .item img {
+            width: 100%;
+            height: 200%;
+        }
+
+        .contact100-form-title {
+            width: 100%;
+            position: relative;
+            z-index: 1;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            padding: 64px 15px 64px 15px;
+        }
+
+        .property-info {
+            margin: 0 0 30px 0;
+        }
+
+            .property-info span {
+                margin-right: 5px;
+            }
+
+            .property-info p {
+                margin-bottom: 10px;
+            }
+
+                .property-info p.price {
+                    font-size: 28px;
+                    color: #055b07;
+                    padding: 0;
+                    border-radius: 5px;
+                }
+
+            .property-info .profile {
+                margin-top: 30px;
+            }
+
+                .property-info .profile p {
+                    padding-left: 20px;
+                    color: #999;
+                }
+    </style>
+</head>
+
+@*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*@
+
+<!-- banner -->
+<div style="overflow-x:hidden">
+
+    <div class="contact100-form-title" style=" background-image:url(/Content/img/Home.jpg); height:100px;border-radius:10px;width:100%">
+        <h2 style="color:white">
+            @*<b>@Model.AdCommercialProperty.PropertyTitle</b>*@
+            <b>@Model.AdPlotProperty.PropertyTitle</b>
+        </h2>
+    </div>
+</div>       <!-- banner -->
+@*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*@
+
+
+<div class="col-lg-8" style="padding-top:15px">
+
+
+
+
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            @for(int j=1;j<2;j++)
+            {
+
+                <li data-target="#carousel-example-generic" data-slide-to="@j"></li>
+            }
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            @{int i = 0;}
+
+            @for(int j=0;j<2;j++)
+            {
+                {
+                    i++;
+                    var active = i == 1 ? "active" : "";
+                    <div class="item @active">
+                        <img src="~/Content/img/plot_427666.jpg">
+                    </div>
+                }
+            }
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    <hr />
+    @*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*@
+
+    <div>
+        <h2 style="color:#055b07"><span class="glyphicon glyphicon-th-list"></span>&nbsp;Properties Detail</h2>
+
+    </div>
+    <hr />
+
+
+    @*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*@
+
+    <div class="col-lg-6" style="color:black; font-size:20px;text-align:left">
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.AdPlotProperty.PlotTypeId)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.AdPlotProperty.PlotTypeId)
+            </dd>
+
+
+            <dt>
+                @Html.DisplayNameFor(model => model.AdPlotProperty.PropertyLandArea)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.AdPlotProperty.PropertyLandArea)
+                @Html.DisplayFor(model => model.AdPlotProperty.PropertyLandAreaUnit)
+            </dd>
+
+            
+        </dl>
+    </div>
+
+    @*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*@
+
+
+    <div class="col-lg-6" style="color:black; font-size:20px;text-align:left;">
+        <dl class="dl-horizontal">
+          
+            <dt>
+                @Html.DisplayNameFor(model => model.AdPlotProperty.City)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.AdPlotProperty.City)
+            </dd>
+
+    
+
+        </dl>
+    </div>
+
+    <hr />
+    <br />
+    <br />
+
+    <p>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+    <div style="color:black; font-size:20px;text-align:left;">
+        <h2 style="color:#055b07">
+            <span class="glyphicon glyphicon-home"></span>&nbsp;
+            @Html.DisplayNameFor(model => model.AdPlotProperty.PropertyDescription)
+        </h2>
+        <p style="color:black">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+            @Html.DisplayFor(model => model.AdPlotProperty.PropertyDescription)
+        </p>
+    </div>
+
+
+
+
+</div>
+
+@*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*@
+
+
+<div class="col-lg-4" style="border-color:#055b07; padding-top:15px">
+
+    <div id="banner" class="inside-banner" style="     background-image: linear-gradient(to bottom right,#055b07, #fff);border:1px solid #055b07;height:400px">
+        <div class="container">
+
+            <div class="col-lg-4">
+                <div class="col-lg-12  col-sm-6">
+                    <div>
+                        <h2 class="price" style="color:white">Rs.@Html.DisplayFor(model => model.AdPlotProperty.PropertyPrice)</h2>
+                        <p class="area" style="color:white;font-size:medium"><span class="glyphicon glyphicon-map-marker"></span> @Html.DisplayFor(model => model.AdPlotProperty.Location)</p>
+
+
+                    </div>
+
+                    <h3 style="color:white">
+                        <img style="align-content:center;  width:80px;height:auto" src="~/Content/img/User.png" />
+                        Owner Details
+                    </h3>
+                    <div>
+                        <h4 class="price" style="color:white">@Html.DisplayFor(model => model.AdPlotProperty.UserName)</h4>
+                        <h4 class="price" style="color:white">@Html.DisplayFor(model => model.AdPlotProperty.UserEmail)</h4>
+                        <h4 class="price" style="color:white">@Html.DisplayFor(model => model.AdPlotProperty.PhoneNumber)</h4>
+
+
+                    </div>
+
+
+                    <div style="width:250px">
+                        @Html.ActionLink("Chat with Owner", "Inbox", "PayingGuest", new { @class = "btn btn-primary" })
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+<hr />
+<div class="col-lg-12" style="float:left;border:10px;border-color:#055b07;">
+    <h2 style="color:#055b07"><span class="glyphicon glyphicon-map-marker"></span> Location</h2>
+
+    <div id="dvMap" style=" height:400px;"></div>
+</div>
+<script type="text/javascript">
+  function initMap() {
+    //map..
+    var map = new google.maps.Map(document.getElementById('dvMap'), {
+        center: {
+            lat: @Model.AdPlotProperty.AddressLatitude,
+            lng: @Model.AdPlotProperty.AddressLongitude,
+        },
+        zoom: 15
+    });
+    //marker..
+    var marker = new google.maps.Marker({
+        position: {
+            lat: @Model.AdPlotProperty.AddressLatitude,
+            lng: @Model.AdPlotProperty.AddressLongitude,
+        },
+        map: map,
+        draggable: true
+    });
+
+			//dragend event of marker
+        google.maps.event.addListener(marker,'dragend', function () {
+            var Lats = marker.getPosition().lat();
+            var Longs = marker.getPosition().lng();
+
+                $('#Lat').val(Lats);
+                $('#Long').val(Longs);
+
+            });
+  }
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBSlzzevx90Sr6HMtdnvuMrzAIHeIUfC7M&callback=initMap">
+</script>
+
+</div>
+<hr />
+            </div>
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#mycarousel").carousel();
+});
+
+</script>
+
+
+
+@Html.Partial("_Footer")

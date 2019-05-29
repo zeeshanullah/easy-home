@@ -1,0 +1,56 @@
+﻿@model IEnumerable<EasyHome2.Models.AddCommercialTypeRental>
+
+@{
+    ViewBag.Title = "CommercialRental";
+}
+
+<h2>CommercialRental</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CommercialTypeId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.City)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Location)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PropertyTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rent)
+        </th>
+        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.CommercialTypeId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.City)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Location)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PropertyTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rent)
+        </td>
+        
+        <td>
+            
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

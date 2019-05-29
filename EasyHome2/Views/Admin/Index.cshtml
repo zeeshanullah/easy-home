@@ -1,0 +1,100 @@
+﻿@model EasyHome2.ViewModels.AllCPIViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Admin Panel</h2>
+<div class="col-lg-4" style="background-color:#e2dddd" >
+ 
+        <h2> @Html.ActionLink("Commercial", "Commercial","Admin")</h2>
+        <h2>@Html.ActionLink("Home", "Home", "Admin")</h2>
+        <h2>@Html.ActionLink("Plot", "Plot", "Admin")</h2>
+        <h2>@Html.ActionLink("Commercial Rental", "CommercialRental", "Admin")</h2>
+        <h2>@Html.ActionLink("Residential Rental ", "HomeRental", "Admin")</h2>
+
+</div>
+
+@{ 
+    int Hcount = 0;
+    int Ccount = 0;
+    int pcount = 0;
+    int CRcount = 0;
+    int HRcount = 0;
+    int PGcount = 0;
+    var TotalCount = 0;
+    foreach (var item in Model.AdHomeProperty)
+    {
+        Hcount++;
+        TotalCount++;
+    }
+    foreach (var item in Model.AdCommercialProperty)
+    {
+        Ccount++;
+        TotalCount++;
+    }
+    foreach (var item in Model.AddCommercialTypeRental)
+    {
+        CRcount++;
+        TotalCount++;
+    }
+    foreach (var item in Model.AddHomeTypeRental)
+    {
+        HRcount++;
+        TotalCount++;
+    }
+    foreach (var item in Model.PayingGuest)
+    {
+        PGcount++;
+        TotalCount++;
+    }
+
+
+}
+<div class="col-lg-2" style="border:groove;background:#20a016">
+    <h3>@Hcount</h3>
+    <h5>Selling Residentials</h5>
+</div>
+@*           /////////////////////////////             *@
+
+<div class="col-lg-2" style="border:groove;background:#20a016">
+    <h3 >@Ccount</h3>
+    <h5>Selling Commercails</h5>
+</div>
+
+@*           /////////////////////////////       *@      
+<div class="col-lg-2" style="border:groove;background:#20a016">
+    <h3>@pcount</h3>
+    <h5>Selling Plots</h5>
+</div>
+@*           /////////////////////////////             *@
+<div class="col-lg-2" style="border:groove;background:#20a016">
+    <h3>@HRcount</h3>
+    <h5>Rental Residentials</h5>
+</div>
+@*           /////////////////////////////   *@          
+<div class="col-lg-2" style="border:groove;background-color:#20a016">
+    <h3>@CRcount</h3>
+    <h5>Rental Commercails</h5>
+</div>
+@*           /////////////////////////////             *@
+<div class="col-lg-2" style="border:groove;background:#20a016">
+    <h3>@PGcount</h3>
+    <h5>Paying Guest</h5>
+</div>
+@*           /////////////////////////////             *@
+<div class="col-lg-2" style="border:groove;background:#20a016">
+    <h3>@TotalCount</h3>
+    <h5>Total Properties</h5>
+</div>
+
+<div class="col-lg-6" style="width:690px; position:fixed; float:left; margin-left:-125px;">
+    <div id="map" style="width:100%; height:600px"></div>
+
+    @{
+
+            <script async defer
+                    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBSlzzevx90Sr6HMtdnvuMrzAIHeIUfC7M&callback=initMap">
+            </script>
+    }
+</div>

@@ -1,0 +1,112 @@
+﻿@model EasyHome2.Models.AddCommercialTypeRental
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>AddCommercialTypeRental</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CommercialTypeId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CommercialTypeId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.City)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.City)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PropertyTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PropertyTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PropertyDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PropertyDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rent)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PropertyLandArea)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PropertyLandArea)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PropertyLandAreaUnit)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PropertyLandAreaUnit)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BuiltinYear)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BuiltinYear)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Bathrooms)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bathrooms)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExpiresAfter)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExpiresAfter)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
