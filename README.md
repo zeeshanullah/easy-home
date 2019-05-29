@@ -1,5 +1,5 @@
 # EasyHome
-Real estate website developed on ASP.NET MVC5.
+Real estate website developed on ASP.NET MVC5 using entity framework code first approach.
 
 ![](screenshots/homepage.png)
 
